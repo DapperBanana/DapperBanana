@@ -1,6 +1,6 @@
 # Hi there, I'm Austin 👋🏼
 
-I currently live in Calgary, AB Canada and have worked in Electronics Engineering🤖, Infrastructure💻🖥, and _most recently_... **DevOps👨🏼‍💻!**
+I live in Calgary, AB Canada and have worked in Electronics Engineering🤖, Infrastructure💻🖥, and _most recently_... **DevOps👨🏼‍💻!**
 
 - 🔭 I’m _currently_ working on my Python skills
   - [Building out a roguelike inside a Discord channel](https://github.com/Captain-Howard/Discord-Roguelike)
