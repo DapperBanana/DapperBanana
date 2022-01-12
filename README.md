@@ -4,6 +4,9 @@ I live in Calgary, AB Canada and have worked in Electronics Engineering🤖, Inf
 
 - 🔭 I’m _currently_ working on my Python skills
   - [Building out a roguelike inside a Discord channel](https://github.com/Captain-Howard/Discord-Roguelike)
+- 🔭 I’m _also_ doing the 100 days of code challenge
+  - [You can see my GitHub log here](https://github.com/Captain-Howard/100-days-of-code/blob/master/log.md)
+  - [Or you can follow me on twitter](https://twitter.com/Captain_Howard_)
 - 🌱 Right now, I'm learning DevOps. The CI/CD pipeline has continuous upgrades and I strive to keep on top of everything as much as I can.
 - 📚 I'd love to learn more about **cybersecurity**
 - 💬 Ask me about working in tech, career changes, or learning new things!
