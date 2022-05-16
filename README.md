@@ -2,7 +2,9 @@
 
 I live in Calgary, AB Canada and have worked in Electronics Engineering🤖, Infrastructure💻🖥, and _most recently_... **DevOps👨🏼‍💻!**
 
-- 🔭 I’m _currently_ working on my Python skills
+- 🔭 I’m _currently_ working on my .NET skills
+  - [Creating a text adventure game!](https://github.com/Captain-Howard/Discord-Roguelike)
+- ⌨ My _ongoing_ project:
   - [Building out a roguelike inside a Discord channel](https://github.com/Captain-Howard/Discord-Roguelike)
 - 🌱 Right now, I'm learning DevOps. The CI/CD pipeline has continuous upgrades and I strive to keep on top of everything as much as I can.
 - 📚 I'd love to learn more about **cybersecurity**
