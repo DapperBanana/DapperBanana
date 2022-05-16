@@ -1,10 +1,6 @@
 # Hi there, I'm Austin 👋🏼
 
-I live in Calgary, AB Canada and have worked in:
-- Electronics Engineering🤖
-- Infrastructure💻🖥
-- DevOps👨‍💻
-- and _most recently_... **Data Analytics!🔢**
+I live in Calgary, AB Canada and have worked in Electronics Engineering🤖, DevOps👨‍💻, and _most recently_... **Data Analytics!🔢**
 
 
 - 🔭 I’m _currently_ working on my .NET skills
