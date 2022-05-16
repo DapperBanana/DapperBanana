@@ -13,3 +13,5 @@ I live in Calgary, AB Canada and have worked in Electronics Engineering🤖, Dev
 - 📫 How to reach me: By [email](austin.lane.howard@gmail.com), [LinkedIn](https://www.linkedin.com/in/austin-l-howard-a8035052/), [Twitter](https://twitter.com/Captain_Howard_), or my [website!](https://www.austinlhoward.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I lived in Mexico for over a year and came out speaking Mandarin, 奇怪！🤷🏼‍♂️ 
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)]
