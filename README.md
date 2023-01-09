@@ -1,4 +1,4 @@
-![alt text](https://media.licdn.com/dms/image/C5616AQHiw8rWcOfPpQ/profile-displaybackgroundimage-shrink_350_1400/0/1648864752638?e=1678924800&v=beta&t=vHhu3im4YYwasWW_rYDfZx6NjpsBcp70XOnbWh_poPY)
+![alt text](https://bp2723.p3cdn1.secureserver.net/wp-content/uploads/2022/12/116708439_3580855018631614_3954914640971230285_o-1024x461.jpg)
 
 # Hi there, I'm Austin 👋🏼
 
