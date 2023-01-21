@@ -1,4 +1,4 @@
-![alt text](https://bp2723.p3cdn1.secureserver.net/wp-content/uploads/2022/12/116708439_3580855018631614_3954914640971230285_o-1024x461.jpg)
+![alt text](https://pbs.twimg.com/profile_banners/1616938443568971776/1674343387/1500x500)
 
 # Hi there, I'm Austin 👋🏼
 
