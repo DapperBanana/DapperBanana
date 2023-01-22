@@ -4,9 +4,6 @@
 
 I live in Calgary, AB Canada and have worked in Electronics Engineering🤖, DevOps👨‍💻, and _most recently_... **Data Analytics!🔢**
 
-
-- 🔭 I’m _currently_ working on my .NET skills
-  - Creating a text adventure game! (Link to come)
 - ⌨ My _ongoing_ projects:
   - [Building out a roguelike inside a Discord channel](https://github.com/Captain-Howard/Discord-Roguelike)
   - [Setting up a fun RTS prototype in Godot](https://github.com/DapperBanana/Untitled-RTS)
