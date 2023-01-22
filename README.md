@@ -7,8 +7,10 @@ I live in Calgary, AB Canada and have worked in Electronics Engineering🤖, Dev
 
 - 🔭 I’m _currently_ working on my .NET skills
   - Creating a text adventure game! (Link to come)
-- ⌨ My _ongoing_ project:
+- ⌨ My _ongoing_ projects:
   - [Building out a roguelike inside a Discord channel](https://github.com/Captain-Howard/Discord-Roguelike)
+  - [Setting up a fun RTS prototype in Godot](https://github.com/DapperBanana/Untitled-RTS)
+  - Text Adventure C# game (link to come, it's private for now)
 - 🌱 Right now, I'm learning DevOps. The CI/CD pipeline has continuous upgrades and I strive to keep on top of everything as much as I can.
 - 📚 I'd love to learn more about **cybersecurity**
 - 💬 Ask me about working in tech, career changes, or learning new things!
