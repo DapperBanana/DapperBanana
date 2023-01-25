@@ -1,4 +1,4 @@
-![alt text](https://pbs.twimg.com/profile_banners/1616938443568971776/1674347684/600x200)
+![Profile Header](https://pbs.twimg.com/profile_banners/1616938443568971776/1674347684/1500x500)
 
 # Hi there, I'm Austin 👋🏼
 
