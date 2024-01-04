@@ -1,7 +1,5 @@
 # Hi there, I'm Austin 👋🏼
 
-<img src="https://github.com/DapperBanana/dapperbanana.github.io/blob/main/album_cover.jpg" alt="Profile Header" height="500px">
-
 ## About me
 
 I'm a tech enthusiast based in Calgary, AB Canada, with a rich background in Electronics Engineering🤖, DevOps👨‍💻, and _most recently_ working in the exciting world of... **Data Analytics!🔢**
@@ -16,26 +14,51 @@ I'm a tech enthusiast based in Calgary, AB Canada, with a rich background in Ele
 - ⚡ Fun fact: I lived in Mexico for over a year and came out speaking Mandarin, 奇怪！🤷🏼‍♂️
 - 💬 Ask me about tech careers, pivoting professional paths, or simply embracing the joy of perpetual learning!
 
-## My expertise (or lack thereof...)
-
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <h3>Languages</h3>
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="Python" height="90">
-  <img src="https://www.file-extension.info/images/resource/formats/asm.png" alt="Assembler" height="90">
-  <img src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png" alt="C#" height="90">
-
-  <h3>Frameworks</h3>
-  <img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" alt="Blazor" height="90">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="90">
-
-  <h3>Cloud Platforms</h3>
-  <img src="https://zeevector.com/wp-content/uploads/Azure-Logo-PNG@zeevector.com_.png" alt="Azure" height="90">
-</div>
-
-
 ## Get in touch :coffee:
 
-- [Email 📧](mailto:contact@austinlhoward.com?subject=[GitHub]%20Reaching%20out!)
-- [LinkedIn 🔗](https://www.linkedin.com/in/austin-l-howard-a8035052/)
-- [Personal website 🌐](https://www.austinlhoward.com)
-- And of course GitHub you're already on (Recursion 🔁).
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li><a href="mailto:contact@austinlhoward.com?subject=[GitHub]%20Reaching%20out!">Email 📧</a></li>
+        <li><a href="https://www.linkedin.com/in/austin-l-howard-a8035052/">LinkedIn 🔗</a></li>
+        <li><a href="https://www.austinlhoward.com">Personal website 🌐</a></li>
+        <li>And of course GitHub you're already on... (Recursion 🔁)</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/DapperBanana/dapperbanana.github.io/blob/main/album_cover.jpg" alt="Profile Header" >
+    </td>
+  </tr>
+</table>
+
+![SQL](https://img.shields.io/badge/T--SQL-Expert-blue)
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![PowerShell](https://img.shields.io/badge/PowerShell-Expert-blue)
+![C#](https://img.shields.io/badge/C%23-Intermediate-orange)
+![6502 Assembly](https://img.shields.io/badge/6502_Assembly-Intermediate-orange)
+![C](https://img.shields.io/badge/C-Intermediate-orange)
+![HTML/CSS](https://img.shields.io/badge/HTML_CSS-Intermediate-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-orange)
+![TypeScript](https://img.shields.io/badge/TypeScript-Newbie-green)
+![Swift](https://img.shields.io/badge/Swift-Newbie-green)
+![Kotlin](https://img.shields.io/badge/Kotlin-Newbie-green)
+
+![Blazor](https://img.shields.io/badge/Blazor-Intermediate-orange)
+![Vue.js](https://img.shields.io/badge/Vue.js-Intermediate-orange)
+![React](https://img.shields.io/badge/React-Newbie-green)
+![Angular](https://img.shields.io/badge/Angular-Newbie-green)
+![Flask](https://img.shields.io/badge/Flask-Newbie-green)
+![Django](https://img.shields.io/badge/Django-Newbie-green)
+
+![SQLServer](https://img.shields.io/badge/SQL-Intermediate-orange)
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-orange)
+![Databricks](https://img.shields.io/badge/Databricks-Intermediate-orange)
+![Postgres](https://img.shields.io/badge/Postgres-Intermediate-orange)
+![MongoDB](https://img.shields.io/badge/MongoDB-Newbie-green)
+![Snowflake](https://img.shields.io/badge/MSnowflake-Newbie-green)
+
+![Azure](https://img.shields.io/badge/Azure-Expert-blue)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-Intermediate-orange)
+![GCP](https://img.shields.io/badge/GCP-Intermediate-orange)
+![AWS](https://img.shields.io/badge/AWS-Newbie-green)
