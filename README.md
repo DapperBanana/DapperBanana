@@ -1,8 +1,10 @@
-# Hi there, I'm Austin 👋🏼
+<h1 align="center"> Hi there, I'm Austin 👋🏼</h1>
 <p align="center"> 
+  <img src="https://github.com/DapperBanana/dapperbanana.github.io/blob/main/album_cover.jpg" alt="Profile Header" height="400px"> <br>
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/DapperBanana/count.svg" />
 </p>
+
 ## About me
 
 I'm a tech enthusiast based in Calgary, AB Canada, with a rich background in Electronics Engineering🤖, DevOps👨‍💻, and _most recently_ working in the exciting world of... **Data Analytics!🔢**
@@ -28,9 +30,6 @@ I'm a tech enthusiast based in Calgary, AB Canada, with a rich background in Ele
         <li><a href="https://www.austinlhoward.com">Personal website 🌐</a></li>
         <li>And of course GitHub you're already on... (Recursion 🔁)</li>
       </ul>
-    </td>
-    <td>
-      <img src="https://github.com/DapperBanana/dapperbanana.github.io/blob/main/album_cover.jpg" alt="Profile Header" >
     </td>
   </tr>
 </table>
