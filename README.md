@@ -1,5 +1,8 @@
 # Hi there, I'm Austin 👋🏼
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/DapperBanana/count.svg" />
+</p>
 ## About me
 
 I'm a tech enthusiast based in Calgary, AB Canada, with a rich background in Electronics Engineering🤖, DevOps👨‍💻, and _most recently_ working in the exciting world of... **Data Analytics!🔢**
