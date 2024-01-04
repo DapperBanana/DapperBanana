@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm a versatile tech enthusiast based in Calgary, AB Canada, with a rich background in Electronics Engineering🤖, DevOps👨‍💻, and _most recently_ working in the exciting world of... **Data Analytics!🔢**
+I'm a tech enthusiast based in Calgary, AB Canada, with a rich background in Electronics Engineering🤖, DevOps👨‍💻, and _most recently_ working in the exciting world of... **Data Analytics!🔢**
 
 - 💼 Business Analyst/Data Analyst/Software Engineer/Infrastructure Analyst/Web Developer and more at [Heartland Generation](https://www.heartlandgeneration.com/)
 - 🌱 Currently diving into the intricacies of **Edge Computing and Firmware Development.** I'm passionate about bringing computation closer to the source of data and delving into low-level programming for devices. My journey involves understanding the challenges of distributed systems, reducing latency, and optimizing the efficiency of computing at the edge. As I explore the world of firmware development, I aim to enhance my skills in programming microcontrollers and designing systems that seamlessly interact with hardware.
