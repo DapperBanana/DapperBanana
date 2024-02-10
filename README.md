@@ -33,34 +33,3 @@ I'm a tech enthusiast based in Calgary, AB Canada, with a rich background in Ele
     </td>
   </tr>
 </table>
-
-![SQL](https://img.shields.io/badge/T--SQL-Expert-blue)
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![PowerShell](https://img.shields.io/badge/PowerShell-Expert-blue)
-![C#](https://img.shields.io/badge/C%23-Intermediate-orange)
-![6502 Assembly](https://img.shields.io/badge/6502_Assembly-Intermediate-orange)
-![C](https://img.shields.io/badge/C-Intermediate-orange)
-![HTML/CSS](https://img.shields.io/badge/HTML_CSS-Intermediate-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-orange)
-![TypeScript](https://img.shields.io/badge/TypeScript-Newbie-green)
-![Swift](https://img.shields.io/badge/Swift-Newbie-green)
-![Kotlin](https://img.shields.io/badge/Kotlin-Newbie-green)
-
-![Blazor](https://img.shields.io/badge/Blazor-Intermediate-orange)
-![Vue.js](https://img.shields.io/badge/Vue.js-Intermediate-orange)
-![React](https://img.shields.io/badge/React-Newbie-green)
-![Angular](https://img.shields.io/badge/Angular-Newbie-green)
-![Flask](https://img.shields.io/badge/Flask-Newbie-green)
-![Django](https://img.shields.io/badge/Django-Newbie-green)
-
-![SQLServer](https://img.shields.io/badge/SQL-Intermediate-orange)
-![MySQL](https://img.shields.io/badge/MySQL-Intermediate-orange)
-![Databricks](https://img.shields.io/badge/Databricks-Intermediate-orange)
-![Postgres](https://img.shields.io/badge/Postgres-Intermediate-orange)
-![MongoDB](https://img.shields.io/badge/MongoDB-Newbie-green)
-![Snowflake](https://img.shields.io/badge/MSnowflake-Newbie-green)
-
-![Azure](https://img.shields.io/badge/Azure-Expert-blue)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-Intermediate-orange)
-![GCP](https://img.shields.io/badge/GCP-Intermediate-orange)
-![AWS](https://img.shields.io/badge/AWS-Newbie-green)
