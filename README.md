@@ -15,7 +15,9 @@ I'm a tech enthusiast based in Calgary, AB Canada, with a rich background in Ele
   - [Building out a roguelike inside a Discord channel (_Python_)](https://github.com/Captain-Howard/Discord-Roguelike)
   - [Designing my own NES emulator (C++)](https://github.com/DapperBanana/NEMU)
   - [Designing my own NES games (6502 ASM)](https://github.com/DapperBanana/NES-Projects)
-  - Creating a multiplayer text-based adventure game (_C#_) (link to come, it's private for now)
+  - Creating a multiplayer text-based adventure game (_C#_)
+    - [Server code](https://github.com/DapperBanana/ASCIIAssaultServer)
+    - [Client code](https://github.com/DapperBanana/ASCIIAssaultClient)
 - 📚 Ever eager to broaden my expertise. I'm keenly interested in delving into **Software Architecture and Design Patterns,** where I can deepen my understanding of building scalable and maintainable systems. Additionally, exploring **Enterprise-Level Application Integration** and mastering the intricacies of designing solutions that seamlessly integrate with diverse systems is a focal point in my learning journey. Lastly, as always, I aim to enhance my proficiency in translating complex technical concepts into strategic business solutions.
 - ⚡ Fun fact: I lived in Mexico for over a year and came out speaking Mandarin, 奇怪！🤷🏼‍♂️
 - 💬 Ask me about tech careers, pivoting professional paths, or simply embracing the joy of perpetual learning!
