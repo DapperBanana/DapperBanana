@@ -10,7 +10,7 @@
 I do stuff
 
 ##
-- ⌨ My _ongoing_ video game projects:
+- ⌨ My projects:
   - [Building out a roguelike inside a Discord channel (_Python_)](https://github.com/Captain-Howard/Discord-Roguelike)
   - [Designing my own NES emulator (C++)](https://github.com/DapperBanana/NEMU)
   - [Designing my own NES games (6502 ASM)](https://github.com/DapperBanana/NES-Projects)
