@@ -17,7 +17,6 @@ I do stuff
   - Creating a multiplayer text-based adventure game (_C#_)
     - [Server code](https://github.com/DapperBanana/ASCIIAssaultServer)
     - [Client code](https://github.com/DapperBanana/ASCIIAssaultClient)
-- Reach out if you want! When I'm not receiving awards, starring in movies, inventing computer science itself, and saving the world with Walter, I'm available to talk to. So don't worry, I can probably squeeze you into my tight schedule.
 
 ## Get in touch :coffee:
 
