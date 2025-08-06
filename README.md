@@ -1,7 +1,12 @@
 <h1 align="center"> Hi there, I'm Austin 👋🏼</h1>
 <p align="center"> 
   <img src="https://github.com/DapperBanana/dapperbanana.github.io/blob/main/album_cover.jpg" alt="Profile Header" height="400px"> <br>
-  ![](https://komarev.com/ghpvc/?username=DapperBanana&color=blue&style=flat-square&base=1240&abbreviated=true)
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=DapperBanana&color=blue&style=flat-square&base=1240">
+  </a>
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 </p>
 
 ## About me
