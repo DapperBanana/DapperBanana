@@ -1,8 +1,7 @@
 <h1 align="center"> Hi there, I'm Austin 👋🏼</h1>
 <p align="center"> 
   <img src="https://github.com/DapperBanana/dapperbanana.github.io/blob/main/album_cover.jpg" alt="Profile Header" height="400px"> <br>
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/DapperBanana/count.svg" />
+  ![](https://komarev.com/ghpvc/?username=DapperBanana&color=blue)
 </p>
 
 ## About me
